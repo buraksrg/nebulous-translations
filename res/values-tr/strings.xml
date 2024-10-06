@@ -1270,7 +1270,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Quad">"Dörtlü"</string>
     <string name="Middle_East">"Orta Doğu"</string>
     <string name="XP_4x">"XP 4x"</string>
-    <string name="You_cannot_play_for_x_minutes_">"%d dakika boyunca oynayamazsınız."</string>
+    <string name="You_cannot_play_for_x_minutes_">"%d Dakika boyunca oynayamazsınız."</string>
     <string name="x4_Clan_XP_Perm">"Kalıcı 4x Klan XP'si!"</string>
     <string name="x4_Clan_XP_7_days">"7 Günlük 4x Klan XP'si"</string>
     <string name="x4_Clan_XP_1_Day">"1 Günlük 4x Klan XP'si"</string>
